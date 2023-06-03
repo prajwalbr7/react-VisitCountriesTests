@@ -1,0 +1,41 @@
+.list-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: solid #cbd5e1 1px;
+  border-right-width: 0px;
+  border-left-width: 0px;
+  border-radius: 2px;
+  line-height: 1;
+  padding: 8px;
+  background-color: #1f1f2f;
+}
+.list-para-style {
+  font-family: 'Roboto';
+  font-size: 13px;
+  font-weight: 400;
+  color: #f1f5f9;
+}
+.list-button-style {
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: 500;
+  color: #ffffff;
+  background-color: #3b82f6;
+  width: 60px;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-width: 0px;
+  border-radius: 4px;
+  cursor: pointer;
+  outline: none;
+}
+.list-button-style1 {
+  color: rgb(255, 255, 255);
+  font-size: 14px;
+  font-weight: 300;
+  background-color: transparent;
+  border-width: 0px;
+}

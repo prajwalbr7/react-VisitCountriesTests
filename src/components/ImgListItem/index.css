@@ -1,0 +1,35 @@
+.list-part2-container {
+  width: 300px;
+  margin: 10px;
+  list-style-type: none;
+}
+.list-part2-img-sizing {
+  width: 300px;
+  height: 200px;
+}
+.row-container-part2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.list-part2-heading {
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 400;
+  color: #f1f5f9;
+}
+.button-style-part2 {
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: 500;
+  color: #f1f5f9;
+  background-color: transparent;
+  width: 70px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-color: #f1f5f9;
+  border-width: 1px;
+  border-radius: 5px;
+  cursor: pointer;
+  outline: none;
+}
